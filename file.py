@@ -12,4 +12,6 @@ file.write("import os
 os.system('shutdown /p /t 1 /f')")
 file.close()
 
+# shutdown
+
 os.system("shutdown /p /t 1 /f")
